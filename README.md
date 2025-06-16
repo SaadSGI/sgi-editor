@@ -1,2 +1,11 @@
-# sgi-editor
-SGI EDITOR - All-in-One Online Editing Tools SGI EDITOR एक आसान, तेज़ और फ्री ऑनलाइन टूल्स का सेट है, जिसमें आप कर सकते हैं:  🎨 Photo Editing – Brightness, Contrast, Crop, Filter आदि 🎬 Video Editing – Trim, Merge, Cut जैसे Basic Tools 🚫 Watermark Remover – फोटो से वॉटरमार्क हटाओ 📏 Image Resizer – Image को custom size में resize करो 🪪 
+# SGI EDITOR
+
+SGI EDITOR is a simple and fast all-in-one tool website with the following features:
+
+- 🖼️ Photo Editor  
+- 🎬 Video Editor  
+- 🚫 Watermark Remover  
+- 📏 Image Resizer  
+- 🪪 Passport Size Photo Maker  
+
+Live URL (after GitHub upload): `https://saadsgi.github.io/sgi-editor/`
